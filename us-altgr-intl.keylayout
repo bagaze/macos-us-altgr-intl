@@ -1228,7 +1228,7 @@
         <action id="c">
             <when state="none" output="c"/>
             <when state="dead_abovedot" output="ċ"/>
-            <when state="dead_acute" output="ć"/>
+            <when state="dead_acute" output="ç"/>
             <when state="dead_belowdot" output="c̣"/>
             <when state="dead_caron" output="č"/>
             <when state="dead_cedilla" output="ç"/>
